@@ -1,4 +1,4 @@
-# Python grapher for excel workbooks
+# Python Grapher for Excel Workbooks
 
 I created this for my dad, who needed a more reliable way to graph
 multiple data sets on one graph. Excel was not creating a graph
